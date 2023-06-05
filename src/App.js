@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import {CustomDropdown} from "./components/CustomDropdown/CustomDropdown";
 
 function App() {
+
+  const asyncSearchFunction = async (options, query) => {
+    //
+    //
+  };
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <CustomDropdown hed = "Оберіть ваше місто"  />
+      <CustomDropdown hed = "Оберіть вашу вулицю"/>
     </div>
   );
 }
