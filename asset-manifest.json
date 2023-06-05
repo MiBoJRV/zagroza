@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zagroza/static/css/main.615b999f.css",
+    "main.js": "/zagroza/static/js/main.18896cc5.js",
+    "static/js/787.50de2187.chunk.js": "/zagroza/static/js/787.50de2187.chunk.js",
+    "index.html": "/zagroza/index.html",
+    "main.615b999f.css.map": "/zagroza/static/css/main.615b999f.css.map",
+    "main.18896cc5.js.map": "/zagroza/static/js/main.18896cc5.js.map",
+    "787.50de2187.chunk.js.map": "/zagroza/static/js/787.50de2187.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615b999f.css",
+    "static/js/main.18896cc5.js"
+  ]
+}
